@@ -89,15 +89,3 @@ Our presentation slides for this project are in the Resources folder: [Fintech-S
 
 ---
 
-## Contributors
-
-[Ethan Silvas](https://github.com/ethansilvas) <br>
-[Naomy Velasco](https://github.com/naomynaomy) <br>
-[Karim Bouzina](https://github.com/karim985) <br>
-[Jeff Crabill](https://github.com/jeffreycrabill) <br>
-
----
-
-## License
-
-This project uses the [GNU General Public License](https://choosealicense.com/licenses/gpl-3.0/)
